@@ -1,0 +1,51 @@
+﻿vendor_id,vendor_name,category,country,payment_terms,status,currency,vat_ein_number
+1000043125,Renishaw Metrology Limited,Precision Instrumentation,United Kingdom,Net 60,Active,GBP,GB256198796
+1000082868,Spectris UK Ltd,Test & Measurement,United kindom,Net 45,Inactive,GBP,GB517205836
+1000033983,Spirax-Sarco Eng Plc,Steam Systems,United Kingdom,Net 90,Active,GBP,Not Provided
+1000036252,Norbar Torque Tools,Industrial Tools,United Kingdom,Net 30,Inactive,GBP,GB897933631
+1000053134,Goodwin International,Castings & Valves,United Kingdom,Net 30,Inactive,GBP,GB391975904
+1000068330,Brammer Buck & Hickman,MRO Supplies,United Kingdom,Net 15,Inactive,GBP,GB335320392
+1000071780,Haynes International UK,Industrial Alloys,United Kingdom,Net 30,Inactive,GBP,GB142366891
+1000056979,Bifrangi UK Ltd,Forgings & Machining,United Kingdom,Net 90,Active,GBP,GB842981388
+1000095845,Advanced Solids Control Ltd,Fluid Management,United Kingdom,Net 30,Inactive,GBP,GB906122638
+1000064520,Derbyshire Aggregates Ltd,Construction Supplies,United Kingdom,Net 30,Active,GBP,GB600648108
+1000024940,Softcat Ltd.,IT Infrastructure,United Kingdom.,Net 45,Active,GBP,GB276360747
+1000029627,Node4 Ltd,Managed Cloud Services,United Kingdom,Net 15,Inactive,GBP,GB548090553
+1000074246,Bytes Software Services,IT Procurement,United Kingdom,Net 15,Active,GBP,GB587197111
+1000034878,Kainos Group Plc,Digital Transformation,United Kingdom,Net 45,Active,GBP,GB319073841
+1000099061,Redcentric Solutions,Network Services,United Kingdom,Net 60,Active,GBP,GB925043278
+1000062828,Six Degrees Group,Managed IT Services,United Kingdom,Net 60,Active,GBP,GB662228367
+1000052510,Ans Group Ltd,Cloud & Connectivity,United Kingdom,Net 60,Inactive,GBP,GB904494671
+1000096033,Civica Group Ltd,Enterprise Software,United Kingdom,Net 60,Active,GBP,GB859046488
+1000096466,Totalmobile Ltd,Field Service Software,United Kingdom,Net 45,Active,GBP,GB327756761
+1000087316,Integral UK Ltd,Engineering Maintenance,United Kingdom,Net 90,Active,GBP,GB952919679
+1000031235,Ng Bailey Services Ltd,M&E Engineering,United Kingdom,Net 15,Active,GBP,Not Provided
+1000069628,Incentive Fm Group,Facility Management,United Kingdom,Net 90,Inactive,GBP,Not Provided
+1000014278,Pareto Facilities Management,Facility Management,United Kingdom,Net 90,Inactive,GBP,GB682888095
+1000097776,Ellmer Construction Ltd,Fit-Out & Refurbishment,United Kingdom,Net 15,Active,GBP,GB319037318
+1000081143,Crown Worldwide Group,Relocation & Storage,United kindom,Net 90,Active,GBP,GB697774831
+1000035815,Palletforce UK,Pallet Network Logistics,United Kingdom,Net 60,Active,GBP,GB637596513
+1000056492,Turners Transport,Road Haulage,United Kingdom,Net 45,Active,GBP,GB579917275
+1000048518,Yusen Logistics,Freight Forwarding,United Kingdom,Net 30,Active,GBP,GB285820234
+1000011404,Kinaxia Logistics,Supply Chain Logistics,United Kingdom,Net 90,Active,GBP,GB961104470
+1000023599,Europa Road Ltd,European Road Freight,United Kingdom,Net 15,Active,GBP,GB516915164
+1000082850,Mott Macdonald Ltd,Infrastructure Consulting,United Kingdom,Net 60,Active,GBP,GB121938581
+1000085764,Turner & Townsend UK,Cost Management,United Kingdom,Net 60,Active,GBP,GB476030981
+1000056920,Faithful & Gould,Project Management,United Kingdom,Net 45,Active,GBP,GB483618589
+1000022345,Arcadis UK Ltd,Engineering Consultancy,United Kingdom,Net 15,Active,GBP,GB779734474
+1000066816,Hyder Consulting,Engineering Advisory,United Kingdom,Net 30,Inactive,GBP,GB555700471
+1000013105,Festo Se & Co Kg,Pneumatics & Automation,Germany,Net 60,Active,EUR,GE489448592
+1000078188,Phoenix Contact,Industrial Controls,Germany,Net 30,Active,EUR,GE872339296
+1000031867,Kone Corporation,Smart Infrastructure,Finland,Net 60,Active,EUR,FI674629068
+1000021602,Philips Medical Systems,Healthcare Equipment,Netherlands,Net 15,Inactive,EUR,NE886208710
+1000060552,E+H Group,Process Instrumentation,Switzerland,Net 30,Active,EUR,SW644856201
+2000051280,Moog Incorporated,Precision Motion Control,United States,Net 60,Active,USD,Not Provided
+2000083288,Protolabs,Custom Rapid Manufacturing,United States,Net 30,Active,USD,EIN 96-8148269
+2000040186,Circor International,Flow & Motion Control,United States,Net 45,Inactive,USD,EIN 72-9334681
+1000071787,Thermon,Industrial Heat Tracing,United States,Net 45,Active,USD,EIN 56-9233168
+2000043692,Chromalox Inc,Electric Heat Solutions,United States,Net 15,Inactive,USD,Not Provided
+2000071726,Api Technologies Corp,RF & Microwave Components,United States,Net 45,Active,USD,EIN 44-5973655
+2000025351,Mesa Labs Inc,Quality Assurance Equip,United States,Net 30,Active,USD,EIN 42-6703876
+2000033106,Peerless Mfg Co,Filtration & Separation,United States,Net 15,Inactive,USD,EIN 14-1506511
+2000067442,Ultralife Corporation,Power & Communications,United States,Net 30,Inactive,USD,EIN 49-4662038
+2000093507,Core Molding Technologies,Composite Components,United States,Net 15,Active,USD,Not Provided
